@@ -127,7 +127,7 @@ try:
 except:
     print(format_exc())
     print('\n无法读取ini文件，请修改它为正确格式，或者打开“【ini】重新创建ini.exe”创建全新的ini！')
-    system('pause')
+    os.system('pause')
 
 # 未雨绸缪：如果需要为kodi整理头像，先检查演员头像ini、头像文件夹是否存在
 if bool_sculpture:
