@@ -35,7 +35,7 @@ def image_cut(path, cli):
             print('    >正在尝试重新人体检测...')
             continue
     print('    >人体分析无法使用...请先解决人体分析的问题，或截图联系作者...')
-    os.system('pause')
+    system('pause')
 
 
 # 功能：裁剪有码的fanart封面作为poster，一般fanart是800*538，把右边的379*538裁剪下来
