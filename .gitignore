@@ -2,7 +2,7 @@
 /.idea/
 
 /javsdt/.idea/
-/javsdt/__pycache__/
+*/__pycache__/
 /javsdt/build/
 /javsdt/dist/
 /javsdt/venv/
