@@ -2,7 +2,7 @@
 /.idea/
 
 /javsdt/.idea/
-*/__pycache__/
+**/__pycache__/
 /javsdt/build/
 /javsdt/dist/
 /javsdt/venv/
@@ -15,3 +15,4 @@
 /javsdt/*.png
 
 *.txt
+！【素人车牌】.txt
