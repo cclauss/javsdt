@@ -42,7 +42,7 @@
 !=[image](https://github.com/javsdt/images/blob/master/jav/javsdt/readme/%E7%9B%AE%E6%A0%87%E6%95%88%E6%9E%9C3.jpg?raw=false)  
   
 ## 6、ini中的用户设置：  
-![image](https://github.com/javsdt/images/blob/master/jav/javsdt/readme/ini%E8%AE%BE%E7%BD%AE.PNG?raw=false)  
+![image](https://raw.githubusercontent.com/JustMachiavelli/wwwroot/master/README%E7%94%A8%E5%9B%BE/Swellow/ini%E8%AE%BE%E7%BD%AE.PNG)  
   
 ## 7、其他说明：  
 （1）不需要赞助；  
